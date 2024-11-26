@@ -1,0 +1,12 @@
+{
+    "models": [
+        ["Rice", "Mao", "Hiyori", "Haru"],
+        ["Natori", "Mark"],
+        ["Wanko"]
+    ],
+    "messages": [
+        "这是女性分组",
+        "这是男性分组",
+        "这是非人分组"
+    ]
+}
